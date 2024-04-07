@@ -4,11 +4,12 @@ Are you on the hunt for a Web3 meetup? We're collaboratively crafting the ultima
 
 
 ## Upcoming
-### 2024 
 ### April 
 | Meetup | Country | City  | Dates             | Focus   | Source                           |
 |--------|---------|-------|--------------------|---------|----------------------------------|
 | Base 2k24  | France  | Paris | April 12 - April 14 | General | [base2k24](https://www.base2k24.com)    |
+
+
 
 
 ## Past Months
@@ -30,4 +31,4 @@ If you're familiar with GitHub and prefer to contribute directly:
 3. **Add Your Meetup:** Ensure you follow the existing table format when adding your meetup information.
 4. **Submit a Pull Request (PR):** After adding your meetup, create a PR with a brief description of your changes. We aim to review and merge contributions quickly.
 
-This repository is maintained by crypto enthusiast [MartycFly](https://github.com/Martijncvv/), with a special thanks to our [contributors](https://github.com/Martijncvv/web3-meetups
+This repository is maintained by crypto enthusiast [MartycFly](https://github.com/Martijncvv/), with a special thanks to our [contributors](https://github.com/Martijncvv/web3-meetups)
