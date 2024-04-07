@@ -1,6 +1,6 @@
 # Upcoming Web3 Meetups
 
-Are you on the hunt for a Web3 meetup? We're collaboratively crafting the ultimate directory of Web3 meetups. If you're aware of a Web3 meetup that hasn't made it onto our list yet, please consult our [contribution guidelines](#contributing) to learn how you can add it.
+Are you on the hunt for a Web3 meetup? We're collaboratively crafting the ultimate directory of Web3 meetups. If you're aware of a Web3 meetup that hasn't made it onto the list yet, please check the [contribution guidelines](#contributing) to learn how you can add it.
 
 ## Upcoming
 ### April 
@@ -30,4 +30,6 @@ If you're familiar with GitHub and prefer to contribute directly:
 3. **Add Your Meetup:** Ensure you follow the existing table format when adding your meetup information.
 4. **Submit a Pull Request (PR):** After adding your meetup, create a PR with a brief description of your changes. We aim to review and merge contributions quickly.
 
-This repository is maintained by crypto enthusiast [MartycFly](https://github.com/Martijncvv/), with a special thanks to our [contributors](https://github.com/Martijncvv/Web3-meetups/graphs/contributors)
+Feedback and other ideas are always welcome!
+
+This repository is maintained by crypto enthusiast [MartycFly](https://github.com/Martijncvv/), with a special thanks to the [contributors](https://github.com/Martijncvv/Web3-meetups/graphs/contributors)
