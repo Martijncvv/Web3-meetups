@@ -32,4 +32,4 @@ If you're familiar with GitHub and prefer to contribute directly:
 
 Feedback and other ideas are always welcome!
 
-This repository is maintained by crypto enthusiast [MartycFly](https://github.com/Martijncvv/), with a special thanks to the [contributors](https://github.com/Martijncvv/Web3-meetups/graphs/contributors)
+This repository is maintained by crypto enthusiast [MartycFly](https://github.com/Martijncvv/), with a special thanks to the [contributors](https://github.com/Martijncvv/Web3-meetups/graphs/contributors).
