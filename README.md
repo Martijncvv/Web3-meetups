@@ -1,7 +1,6 @@
-# Web3 Meetups
+# Upcoming Web3 Meetups
 
 Are you on the hunt for a Web3 meetup? We're collaboratively crafting the ultimate directory of Web3 meetups. If you're aware of a Web3 meetup that hasn't made it onto our list yet, please consult our [contribution guidelines](#contributing) to learn how you can add it.
-
 
 ## Upcoming
 ### April 
@@ -12,7 +11,7 @@ Are you on the hunt for a Web3 meetup? We're collaboratively crafting the ultima
 
 
 
-## Past Months
+## Past
 ### March 
 | Meetup | Country | City  | Dates             | Focus   | Source                           |
 |--------|---------|-------|--------------------|---------|----------------------------------|
