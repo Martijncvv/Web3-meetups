@@ -20,6 +20,7 @@ Are you on the hunt for an in-person Web3 meetup or networking event? We're coll
 | 🔵 Singapore Base Frames Hackathon                  | Singapore            | Singapore | April 12    | Frames                     | [BasedSingapore](https://lu.ma/z6009042)                                           |
 | W3PN Meetup @ ETHDam 2024                           | Netherlands          | Amsterdam | April 11    | Privacy                    | [W3PN Meetup](https://lu.ma/w3pn-meetup-ams1)                                      |
 | Web3 with Tobi & Brent in Paris                     | France               | Paris     | April 11    | Privacy                    | [Web3 with Tobi & Brent](https://lu.ma/l4edj0g6)                                   |
+| 🔵 Base Community Meetup     | Hong Kong   | Hong Kong     | April 8 | Base                  | [Base Community Meetup](https://lu.ma/Base_HK)                                 |
 
 
 
@@ -28,7 +29,6 @@ Are you on the hunt for an in-person Web3 meetup or networking event? We're coll
 ### April 
 | Meetup                       | Country     | City          | Dates   | Focus                 | Source                                                                         |
 |------------------------------|-------------|---------------|---------|-----------------------|--------------------------------------------------------------------------------|
-| 🔵 Base Community Meetup     | Hong Kong   | Hong Kong     | April 8 | Base                  | [Base Community Meetup](https://lu.ma/Base_HK)                                 |
 | DeSoc Unleashed              | Hong Kong   | Hong Kong     | April 7 | DeSoc Infra           | [DeSoc Unleashed](https://twitter.com/TakoProtocol/status/1775823728284484049) |
 | 🔵 Farcaster x Base Builders | Switserland | Zürich        | April 7 | Farcaster             | [Farcaster x Base Builders](https://lu.ma/bvaszyxc)                            |
 | 🔵 Farcaster NYC: BING BONG BASH  | USA         | New York City | April 6 | Farcaster/ NFT        | [Farcaster NYC: BING BONG BASH](https://events.xyz/4c52d89e)                   |
