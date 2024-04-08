@@ -5,8 +5,8 @@ Are you on the hunt for an in-person Web3 meetup or networking event? We're coll
 
 ## Legend
 
-- 🔵 Indicates a Base Community Presence
-- 🟣 Indicates a Solana Community Presence
+- 🔵 Indicates Base community presence
+- 🟣 Indicates Solana community presence
 
 ## Upcoming
 ### April 
