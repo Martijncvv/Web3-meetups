@@ -61,4 +61,5 @@ We welcome feedback and new ideas!
 - **Continent-Based Segmentation**: Allow users to find relevant meetups in their region more efficiently.
 
 
+
   This repository is maintained by crypto enthusiast [MartycFly](https://github.com/Martijncvv/), with a special thanks to the [contributors](https://github.com/Martijncvv/Web3-meetups/graphs/contributors).
