@@ -22,7 +22,7 @@ Are you on the hunt for an in-person Web3 meetup or networking event? We're coll
 | 🔵 Base Community Meetup     | Hong Kong   | Hong Kong     | April 8 | Base                  | [Base Community Meetup](https://lu.ma/Base_HK)                                 |
 | DeSoc Unleashed              | Hong Kong   | Hong Kong     | April 7 | DeSoc Infra           | [DeSoc Unleashed](https://twitter.com/TakoProtocol/status/1775823728284484049) |
 | 🔵 Farcaster x Base Builders | Switserland | Zürich        | April 7 | Farcaster             | [Farcaster x Base Builders](https://lu.ma/bvaszyxc)                            |
-| 🔵 Farcaster NYC: BING BONG BASH  | USA         | New York City | April 6 | Farcaster/ NFT        | [https://events.xyz/4c52d89e)          |
+| 🔵 Farcaster NYC: BING BONG BASH  | USA         | New York City | April 6 | Farcaster/ NFT        | [Farcaster NYC: BING BONG BASH](https://events.xyz/4c52d89e)                   |
 | 🔵 Rome is based             | Rome        | Italy         | April 6 | Base                  | [Rome is based](https://lu.ma/urbe-hacker-house-base)                          |
 | 🔵 SuperBased by FBI         | India       | Hyderabad     | April 6 | Farcaster/Base/Social | [SuperBased by FBI](https://lu.ma/fbi-hyd)                                     |
 
