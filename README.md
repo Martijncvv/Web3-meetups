@@ -12,15 +12,15 @@ Are you on the hunt for an in-person Web3 meetup or networking event? We're coll
 ### April 
 | Meetup                                              | Country              | City      | Dates       | Focus                      | Source                                                                             |
 |-----------------------------------------------------|----------------------|-----------|-------------|----------------------------|------------------------------------------------------------------------------------|
-| 🟣 Decentralizing @ DCTRL solvan.v4        | Canada         | Vancouver | April 24    | General                    | [DCTRL](https://lu.ma/n77xud18)                                                    |
+| 🟣 Decentralizing @ DCTRL solvan.v4                 | Canada         | Vancouver | April 24    | General                    | [DCTRL](https://lu.ma/n77xud18)                                                    |
 | 🔵 ETHDubai Hackathon                               | United Arab Emirates | Dubai     | April 20-21 | General                    | [ETHDubai](https://www.ethdubaiconf.org/)                                          |
 | 🔵 Token2049 Dubai                                  | United Arab Emirates | Dubai     | April 18-19 | General                  | [Token2049](https://www.dubai.token2049.com/)                                      |
-| Coinbase Advanced Amsterdam Networking Reception | Netherlands          | Amsterdam | April 16    | Coinbase Advanced/ Trading | [Coinbase Traders](https://twitter.com/coinbasetraders/status/1775582204434710823) |
+| 🔵 Coinbase Advanced Amsterdam Networking Reception | Netherlands          | Amsterdam | April 16    | Coinbase Advanced/ Trading | [Coinbase Traders](https://twitter.com/coinbasetraders/status/1775582204434710823) |
 | 🔵 Paris Base Frames Hackathon                      | France               | Paris     | April 12    | Frames                     | [BasedParis](https://lu.ma/4hdpgqs2)                                               |
 | 🔵 Singapore Base Frames Hackathon                  | Singapore            | Singapore | April 12    | Frames                     | [BasedSingapore](https://lu.ma/z6009042)                                           |
 | W3PN Meetup @ ETHDam 2024                           | Netherlands          | Amsterdam | April 11    | Privacy                    | [W3PN Meetup](https://lu.ma/w3pn-meetup-ams1)                                      |
 | Web3 with Tobi & Brent in Paris                     | France               | Paris     | April 11    | Privacy                    | [Web3 with Tobi & Brent](https://lu.ma/l4edj0g6)                                   |
-| 🔵 Base Community Meetup     | Hong Kong   | Hong Kong     | April 8 | Base                  | [Base Community Meetup](https://lu.ma/Base_HK)                                 |
+| 🔵 Base Community Meetup                            | Hong Kong   | Hong Kong     | April 8 | Base                  | [Base Community Meetup](https://lu.ma/Base_HK)                                 |
 
 
 
