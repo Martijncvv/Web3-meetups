@@ -17,7 +17,6 @@ Are you on the hunt for an in-person Web3 meetup or networking event? We're coll
 | 🔵 SuperBased by FBI                               | Kolkata     | India     | April 27    | Farcaster, social, web3    | [SuperBased Kolkata](https://lu.ma/8nxxuu7k)                                       |
 | 🔵 SuperBased by FBI                               | Vadodara    | India     | April 20    | Farcaster, social, web3    | [SuperBased Vadodara](https://lu.ma/tmst2es0)                                      |
 | Farcaster Meetup @ Token 2049                    | UAE    | Dubai     | April 18     | Farcaster, social, web3    | [Farcaster Dubai](https://lu.ma/Farcaster_Dubai)                                   |
-| 🔵 Paris Base Frames Hackathon                     | France      | Paris     | April 12    | Frames                     | [BasedParis](https://lu.ma/4hdpgqs2)                                               |
 | 🔵 Token2049 Dubai                                 | UAE         | Dubai     | April 18-19 | General                    | [Token2049](https://www.dubai.token2049.com/)                                      |
 | 🔵 Base Community Meetup Vancouver                 | Canada      | Vancouver     | April 19    | Networking                 | [Base Vancouver](https://lu.ma/basevancouver)                                      |
 | 🟠 BitFest Bitcoin Halving Event                   | Netherlands | Amsterdam | April 18    | Bitcoin                    | [Bitcoin Halving Event](https://bitfest.nl/)                                       |
@@ -26,12 +25,11 @@ Are you on the hunt for an in-person Web3 meetup or networking event? We're coll
 
 
 
-
 ## Past
 ### April 
 | Meetup                       | Country     | City          | Dates   | Focus                 | Source                                                                         |
 |------------------------------|-------------|---------------|---------|-----------------------|--------------------------------------------------------------------------------|
-| 🔵 Paris Base Frames Hackathon                      | France      | Paris     | April 12    | Frames                     | [BasedParis](https://lu.ma/4hdpgqs2)                                               |
+                                        |
 | 🔵 Paris Base Frames Hackathon                      | France      | Paris     | April 12    | Frames                     | [BasedParis](https://lu.ma/4hdpgqs2)                                               |
 | 🔵 Singapore Base Frames Hackathon                  | Singapore            | Singapore | April 12    | Frames                     | [BasedSingapore](https://lu.ma/z6009042)                                           |
 | W3PN Meetup @ ETHDam 2024                           | Netherlands          | Amsterdam | April 11    | Privacy                    | [W3PN Meetup](https://lu.ma/w3pn-meetup-ams1)                                      |
@@ -70,4 +68,5 @@ We welcome feedback and new ideas!
 
 
 
-  This repository is maintained by crypto enthusiast [MartycFly](https://github.com/Martijncvv/), with a special thanks to the [contributors](https://github.com/Martijncvv/Web3-meetups/graphs/contributors).
+  This [repository](https://github.com/Martijncvv/Web3-meetups) is maintained by crypto enthusiast [MartycFly](https://github.com/Martijncvv/), with a special thanks to the [contributors](https://github.com/Martijncvv/Web3-meetups/graphs/contributors).
+
