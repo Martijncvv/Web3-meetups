@@ -10,18 +10,24 @@ Are you on the hunt for an in-person Web3 meetup or networking event? We're coll
 - 🟠 Indicates Bitcoin community presence
 
 ## Upcoming
+### May 
+| Meetup              | Country | City | Dates | Focus                              | Source                                                                             |
+|---------------------|---------|------|-------|------------------------------------|------------------------------------------------------------------------------------|
+| 🔵 NYUBF Base Meetup | USA     | NYC  | May 16 | Base, virtual keynote Jesse Pollak | [NYUBF Base Meetup](https://lu.ma/nycbasemeetup)                                       |
+
+
 ### April 
 | Meetup                                              | Country     | City      | Dates       | Focus                      | Source                                                                             |
 |-----------------------------------------------------|-------------|-----------|-------------|----------------------------|------------------------------------------------------------------------------------|
-| 🟣 Decentralizing @ DCTRL solvan.v4                 | Canada      | Vancouver | April 24    | General                    | [DCTRL](https://lu.ma/n77xud18)                                                    |
 | 🔵 SuperBased by FBI  Kolkata                       | Kolkata     | India     | April 27    | Farcaster, social, web3    | [SuperBased Kolkata](https://lu.ma/8nxxuu7k)                                       |
+| 🔵 404DAO Base meetup                               | USA         | Atlanta   | April 24    | Farcaster                  | [404DAO Meetup](https://lu.ma/m27ue61u)                                            |
+| 🟣 Decentralizing @ DCTRL solvan.v4                 | Canada      | Vancouver | April 24    | General                    | [DCTRL](https://lu.ma/n77xud18)                                                    |
 | 🔵 SuperBased by FBI Vadodara                       | Vadodara    | India     | April 20    | Farcaster, social, web3    | [SuperBased Vadodara](https://lu.ma/tmst2es0)                                      |
 | 🔵 Token2049 Dubai                                  | UAE         | Dubai     | April 18-19 | General                    | [Token2049](https://www.dubai.token2049.com/)                                      |
-| 🔵 Base Community Meetup by Tako Protocol           | UAE         | Dubai     | April 18    | General                    | [Base Taco protocol](https://lu.ma/Base_Dubai)                             |
-| Farcaster Meetup @ Token 2049                       | UAE    | Dubai     | April 18    | Farcaster, social, web3    | [Farcaster Dubai](https://lu.ma/Farcaster_Dubai)                                   |
-| 🔵 Base Community Meetup Vancouver                  | Canada      | Vancouver     | April 19    | Networking                 | [Base Vancouver](https://lu.ma/basevancouver)                                      |
+| 🔵 Base Community Meetup by Tako Protocol           | UAE         | Dubai     | April 18    | General                    | [Base Taco protocol](https://lu.ma/Base_Dubai)                                     |
+| Farcaster Meetup @ Token 2049                       | UAE         | Dubai     | April 18    | Farcaster, social, web3    | [Farcaster Dubai](https://lu.ma/Farcaster_Dubai)                                   |
+| 🔵 Base Community Meetup Vancouver                  | Canada      | Vancouver | April 19    | Networking                 | [Base Vancouver](https://lu.ma/basevancouver)                                      |
 | 🟠 BitFest Bitcoin Halving Event                    | Netherlands | Amsterdam | April 18    | Bitcoin                    | [Bitcoin Halving Event](https://bitfest.nl/)                                       |
-| 🔵 Coinbase Advanced Amsterdam Networking Reception | Netherlands | Amsterdam | April 16    | Coinbase Advanced/ Trading | [Coinbase Traders](https://twitter.com/coinbasetraders/status/1775582204434710823) |
 
 
 
@@ -30,6 +36,7 @@ Are you on the hunt for an in-person Web3 meetup or networking event? We're coll
 | Meetup                       | Country     | City          | Dates   | Focus                 | Source                                                                         |
 |------------------------------|-------------|---------------|---------|-----------------------|--------------------------------------------------------------------------------|
                                         |
+| 🔵 Coinbase Advanced Amsterdam Networking Reception | Netherlands | Amsterdam | April 16    | Coinbase Advanced/ Trading | [Coinbase Traders](https://twitter.com/coinbasetraders/status/1775582204434710823) |
 | 🔵 SuperBased by FBI                               | Guwahati    | India     | April 13    | Farcaster, social, web3    | [SuperBased Guwahati](https://lu.ma/ro2k6f57)                                      |
 | 🔵 Paris Base Frames Hackathon                      | France      | Paris     | April 12    | Frames                     | [BasedParis](https://lu.ma/4hdpgqs2)                                               |
 | 🔵 Singapore Base Frames Hackathon                  | Singapore            | Singapore | April 12    | Frames                     | [BasedSingapore](https://lu.ma/z6009042)                                           |
