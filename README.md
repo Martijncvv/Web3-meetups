@@ -35,7 +35,6 @@ Are you on the hunt for an in-person Web3 meetup or networking event? We're coll
 ### April 
 | Meetup                       | Country     | City          | Dates   | Focus                 | Source                                                                         |
 |------------------------------|-------------|---------------|---------|-----------------------|--------------------------------------------------------------------------------|
-                                        |
 | 🔵 Coinbase Advanced Amsterdam Networking Reception | Netherlands | Amsterdam | April 16    | Coinbase Advanced/ Trading | [Coinbase Traders](https://twitter.com/coinbasetraders/status/1775582204434710823) |
 | 🔵 SuperBased by FBI                               | Guwahati    | India     | April 13    | Farcaster, social, web3    | [SuperBased Guwahati](https://lu.ma/ro2k6f57)                                      |
 | 🔵 Paris Base Frames Hackathon                      | France      | Paris     | April 12    | Frames                     | [BasedParis](https://lu.ma/4hdpgqs2)                                               |
