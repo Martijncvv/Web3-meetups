@@ -18,13 +18,12 @@ Are you on the hunt for an in-person Web3 meetup or networking event? We're coll
 
 
 ### April 
-| Meetup                                    | Country     | City      | Dates       | Focus                                    | Source                                                                             |
-|-------------------------------------------|-------------|-----------|-------------|------------------------------------------|------------------------------------------------------------------------------------|
-| 🔵 SuperBased by FBI  Kolkata             |   India   |   Kolkata   | April 27    | Farcaster, social, web3                  | [SuperBased Kolkata](https://lu.ma/8nxxuu7k)                                       |
-| 🔵 404DAO Base meetup                     | USA         | Atlanta   | April 24    | Farcaster                                | [404DAO Meetup](https://lu.ma/m27ue61u)                                            |
-| 🟣 Decentralizing @ DCTRL solvan.v4       | Canada      | Vancouver | April 24    | General                                  | [DCTRL](https://lu.ma/n77xud18)                                                    |
-| 🔵 Memecoin Hackathon                     | USA         | NYC       | April 20    | Memelords, Telegram bots, Jesse speaking | [Memecoin Hackathon](https://lu.ma/var4q85z)                                            |
-| 🔵 SuperBased by FBI Vadodara             |  India   | Vadodara     | April 20    | Farcaster, social, web3                  | [SuperBased Vadodara](https://lu.ma/tmst2es0)                                      |
+| Meetup                              | Country     | City      | Dates    | Focus                                          | Source                                          |
+|-------------------------------------|-------------|-----------|----------|------------------------------------------------|-------------------------------------------------|
+| 🔵 SuperBased by FBI  Kolkata       |   India   | Kolkata   | April 27 | Farcaster, social, web3                        | [SuperBased Kolkata](https://lu.ma/8nxxuu7k)    |
+| 🔵 404DAO Base meetup               | USA         | Atlanta   | April 24 | Farcaster                                      | [404DAO Meetup](https://lu.ma/m27ue61u)         |
+| 🟣 Decentralizing @ DCTRL solvan.v4 | Canada      | Vancouver | April 24 | General                                        | [DCTRL](https://lu.ma/n77xud18)                 |
+| 🔵 CB Internal Hackathon Meetup     | USA         | SF         | April 22 | Base, Coinbase, Internal Hackathon Celebration | [CB Internal Hackathon](https://twitter.com/jessepollak/status/1782090563157897615) |
 
 
 
@@ -32,6 +31,8 @@ Are you on the hunt for an in-person Web3 meetup or networking event? We're coll
 ### April 
 | Meetup                       | Country     | City          | Dates   | Focus                 | Source                                                                         |
 |------------------------------|-------------|---------------|---------|-----------------------|--------------------------------------------------------------------------------|
+| 🔵 Memecoin Hackathon                     | USA         | NYC       | April 20    | Memelords, Telegram bots, Jesse speaking | [Memecoin Hackathon](https://lu.ma/var4q85z)                                            |
+| 🔵 SuperBased by FBI Vadodara             |  India   | Vadodara     | April 20    | Farcaster, social, web3                  | [SuperBased Vadodara](https://lu.ma/tmst2es0)                                      |
 | 🔵 Base Community Meetup Vancouver        | Canada      | Vancouver     | April 19    | Networking                               | [Base Vancouver](https://lu.ma/basevancouver)                                      |
 | 🔵 Token2049 Dubai                        | UAE         | Dubai         | April 18-19 | General                                  | [Token2049](https://www.dubai.token2049.com/)                                      |
 | 🔵 Base Community Meetup by Tako Protocol | UAE         | Dubai         | April 18    | General                                  | [Base Taco protocol](https://lu.ma/Base_Dubai)                                     |
