@@ -11,19 +11,17 @@ Are you on the hunt for an in-person Web3 meetup or networking event? We're coll
 
 ## Upcoming
 ### May 
-| Meetup              | Country | City                     | Dates   | Focus                              | Source                                              |
-|---------------------|---------|--------------------------|---------|------------------------------------|-----------------------------------------------------|
-| 🔵 NYUBF Base Meetup | USA     | NYC                      | May 16  | Base, virtual keynote Jesse Pollak | [NYUBF Base Meetup](https://lu.ma/nycbasemeetup)    |
-| 🔵 Base Farcon | USA     | Venice Beach, California | May 2-5 | Snacks, Merch, Talks, Jesse Pollak | [Base Farcon](https://warpcast.com/base/0x8dd1b660) |
+| Meetup                          | Country | City                     | Dates   | Focus                              | Source                                                        |
+|---------------------------------|---------|--------------------------|---------|------------------------------------|---------------------------------------------------------------|
+| 🔵 Frames Hackathon BasedBerlin | Germany | Berlin                   | May 20   | Frames, 3x $1500 prize             | [Base Frames Hackathon](https://lu.ma/BasedBerlin24) |
+| 🔵 NYUBF Base Meetup            | USA     | NYC                      | May 16  | Base, virtual keynote Jesse Pollak | [NYUBF Base Meetup](https://lu.ma/nycbasemeetup)              |
+| 🔵 Base Farcon                  | USA     | Venice Beach, California | May 2-5 | Snacks, Merch, Talks, Jesse Pollak | [Base Farcon](https://warpcast.com/base/0x8dd1b660)           |
 
 
 ### April 
 | Meetup                              | Country     | City      | Dates    | Focus                                          | Source                                          |
 |-------------------------------------|-------------|-----------|----------|------------------------------------------------|-------------------------------------------------|
 | 🔵 SuperBased by FBI  Kolkata       |   India   | Kolkata   | April 27 | Farcaster, social, web3                        | [SuperBased Kolkata](https://lu.ma/8nxxuu7k)    |
-| 🔵 404DAO Base meetup               | USA         | Atlanta   | April 24 | Farcaster                                      | [404DAO Meetup](https://lu.ma/m27ue61u)         |
-| 🟣 Decentralizing @ DCTRL solvan.v4 | Canada      | Vancouver | April 24 | General                                        | [DCTRL](https://lu.ma/n77xud18)                 |
-| 🔵 CB Internal Hackathon Meetup     | USA         | SF         | April 22 | Base, Coinbase, Internal Hackathon Celebration | [CB Internal Hackathon](https://twitter.com/jessepollak/status/1782090563157897615) |
 
 
 
@@ -31,6 +29,9 @@ Are you on the hunt for an in-person Web3 meetup or networking event? We're coll
 ### April 
 | Meetup                       | Country     | City          | Dates   | Focus                 | Source                                                                         |
 |------------------------------|-------------|---------------|---------|-----------------------|--------------------------------------------------------------------------------|
+| 🔵 404DAO Base meetup               | USA         | Atlanta   | April 24 | Farcaster                                      | [404DAO Meetup](https://lu.ma/m27ue61u)         |
+| 🟣 Decentralizing @ DCTRL solvan.v4 | Canada      | Vancouver | April 24 | General                                        | [DCTRL](https://lu.ma/n77xud18)                 |
+| 🔵 CB Internal Hackathon Meetup     | USA         | SF         | April 22 | Base, Coinbase, Internal Hackathon Celebration | [CB Internal Hackathon](https://twitter.com/jessepollak/status/1782090563157897615) |
 | 🔵 Memecoin Hackathon                     | USA         | NYC       | April 20    | Memelords, Telegram bots, Jesse speaking | [Memecoin Hackathon](https://lu.ma/var4q85z)                                            |
 | 🔵 SuperBased by FBI Vadodara             |  India   | Vadodara     | April 20    | Farcaster, social, web3                  | [SuperBased Vadodara](https://lu.ma/tmst2es0)                                      |
 | 🔵 Base Community Meetup Vancouver        | Canada      | Vancouver     | April 19    | Networking                               | [Base Vancouver](https://lu.ma/basevancouver)                                      |
