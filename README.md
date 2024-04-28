@@ -23,7 +23,6 @@ Are you on the hunt for an in-person Web3 meetup or networking event? We're coll
 | Meetup                        | Country   | City    | Dates    | Focus                   | Source                                       |
 |-------------------------------|-----------|---------|----------|-------------------------|----------------------------------------------|
 | 🐶 MemeGlobal by Infinex      | Australia | Sydney  | April 30  | Memes, Fantom           | [MemeGlobal](https://lu.ma/memeglobalsydney) |
-| 🔵 SuperBased by FBI  Kolkata | India     | Kolkata | April 27 | Farcaster, social, web3 | [SuperBased Kolkata](https://lu.ma/8nxxuu7k) |
 
 
 
@@ -31,6 +30,7 @@ Are you on the hunt for an in-person Web3 meetup or networking event? We're coll
 ### April 
 | Meetup                       | Country     | City          | Dates   | Focus                 | Source                                                                         |
 |------------------------------|-------------|---------------|---------|-----------------------|--------------------------------------------------------------------------------|
+| 🔵 SuperBased by FBI  Kolkata | India     | Kolkata | April 27 | Farcaster, social, web3 | [SuperBased Kolkata](https://lu.ma/8nxxuu7k) |
 | 🔵 404DAO Base meetup               | USA         | Atlanta   | April 24 | Farcaster                                      | [404DAO Meetup](https://lu.ma/m27ue61u)         |
 | 🟣 Decentralizing @ DCTRL solvan.v4 | Canada      | Vancouver | April 24 | General                                        | [DCTRL](https://lu.ma/n77xud18)                 |
 | 🔵 CB Internal Hackathon Meetup     | USA         | SF         | April 22 | Base, Coinbase, Internal Hackathon Celebration | [CB Internal Hackathon](https://twitter.com/jessepollak/status/1782090563157897615) |
