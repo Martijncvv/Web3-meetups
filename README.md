@@ -2,6 +2,8 @@
 
 Are you on the hunt for an in-person Web3 meetup or networking event? We're collaboratively crafting the ultimate directory of Web3 meetups. If you're aware of a Web3 meetup that hasn't made it onto the list yet, please check the [contribution guidelines](#contributing) to learn how you can add it.
 
+## Notifications
+Click "Watch" on the top right to get notified about new meetups.
 
 ## Legend
 
