@@ -8,6 +8,7 @@ Are you on the hunt for an in-person Web3 meetup or networking event? We're coll
 - 🔵 Indicates Base community presence
 - 🟣 Indicates Solana community presence
 - 🟠 Indicates Bitcoin community presence
+- 🐶 Indicates Memes community presence
 
 ## Upcoming
 ### May 
@@ -19,9 +20,10 @@ Are you on the hunt for an in-person Web3 meetup or networking event? We're coll
 
 
 ### April 
-| Meetup                              | Country     | City      | Dates    | Focus                                          | Source                                          |
-|-------------------------------------|-------------|-----------|----------|------------------------------------------------|-------------------------------------------------|
-| 🔵 SuperBased by FBI  Kolkata       |   India   | Kolkata   | April 27 | Farcaster, social, web3                        | [SuperBased Kolkata](https://lu.ma/8nxxuu7k)    |
+| Meetup                        | Country   | City    | Dates    | Focus                   | Source                                       |
+|-------------------------------|-----------|---------|----------|-------------------------|----------------------------------------------|
+| 🐶 MemeGlobal by Infinex      | Australia | Sydney  | April 30  | Memes, Fantom           | [MemeGlobal](https://lu.ma/memeglobalsydney) |
+| 🔵 SuperBased by FBI  Kolkata | India     | Kolkata | April 27 | Farcaster, social, web3 | [SuperBased Kolkata](https://lu.ma/8nxxuu7k) |
 
 
 
