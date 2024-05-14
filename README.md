@@ -14,10 +14,11 @@ Click "Watch" on the top right to get notified about new meetups.
 
 ## Upcoming
 ### May 
-| Meetup                          | Country | City                     | Dates   | Focus                              | Source                                                        |
-|---------------------------------|---------|--------------------------|---------|------------------------------------|---------------------------------------------------------------|
-| 🔵 Frames Hackathon BasedBerlin | Germany | Berlin                   | May 20   | Frames, 3x $1500 prize             | [Base Frames Hackathon](https://lu.ma/BasedBerlin24) |
-| 🔵 NYUBF Base Meetup            | USA     | NYC                      | May 16  | Base, virtual keynote Jesse Pollak | [NYUBF Base Meetup](https://lu.ma/nycbasemeetup)              |
+| Meetup                         | Country     | City   | Dates  | Focus                               | Source                                               |
+|--------------------------------|-------------|--------|--------|-------------------------------------|------------------------------------------------------|
+| 🔵 Base Community Meetup | South-Korea | Seoul    | May 28 | Base, Building on Base and Coinbase | [Base Meetup](https://lu.ma/eedv8gid)                |
+| 🔵 Frames Hackathon BasedBerlin | Germany     | Berlin | May 20 | Frames, 3x $1500 prize              | [Base Frames Hackathon](https://lu.ma/BasedBerlin24) |
+| 🔵 NYUBF Base Meetup           | USA         | NYC    | May 16 | Base, virtual keynote Jesse Pollak  | [NYUBF Base Meetup](https://lu.ma/nycbasemeetup)     |
 
 
 ## Past
