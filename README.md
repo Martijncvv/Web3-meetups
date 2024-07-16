@@ -2,6 +2,11 @@
 
 Are you on the hunt for an in-person Web3 meetup or networking event? We're collaboratively crafting the ultimate directory of Web3 meetups. If you're aware of a Web3 meetup that hasn't made it onto the list yet, please check the [contribution guidelines](#contributing) to learn how you can add it.
 
+## GM builders,
+I found this amazing website/ community with LOTS of events. Check it out!
+
+[CryptoNomad Events](https://cryptonomads.org/)
+
 ## Notifications
 Click "Watch" on the top right to get notified about new meetups.
 
@@ -16,6 +21,12 @@ Click "Watch" on the top right to get notified about new meetups.
 ### June 
 | Meetup                         | Country                   | City      | Dates | Focus                            | Source                                                   |
 |--------------------------------|---------------------------|-----------|-------|----------------------------------|----------------------------------------------------------|
+
+
+## Past
+### June 
+| Meetup                        | Country | City | Dates   | Focus                   | Source                                       |
+|-------------------------------|---------|------|---------|-------------------------|----------------------------------------------|
 | 🔵 Veron Onchain CV                      |          Cabo Verde                 | Praia     | June 29 |   Veron Onchain CV                               | [Veron Onchain CV](https://lu.ma/meafk9gq)               |
 | 🔵 Onchain Summer Road Tour - BasedAbuja Build Session                     | Federal Capital Territory | Nigeria   | June 29 |          Onchain Summer                          | [Onchain Summer](https://lu.ma/vdox3k9l)                 |
 | 🔵 BASEd Mbarara OnChain Summer MeetUp              | Uganda                    | Mbarara   | June 27 | Onchain Summer                   | [Onchain summer](https://lu.ma/351ff11z)                 |
@@ -23,12 +34,6 @@ Click "Watch" on the top right to get notified about new meetups.
 | 🔵 Onchain Summer              | Uganda                    | Mukono    | June 25 | Onchain Summer WorkShop Mukono   | [Onchain Summer](https://lu.ma/kkxcshgb)                 |
 | 🔵 Let's bring Vancouver onchain! | Canada                    | Vancouver | June 25 | Onchain Summer                   | [Let's bring Vancouver onchain!](https://lu.ma/rhkffxo7) |
 | 🔵 Edu-Chain                   | Guatemala                 | Salama    | June 24 | Conociendo Base y su ecosistema. | [Edu-Chain](https://lu.ma/7vjsye6e)                      |
-
-
-## Past
-### June 
-| Meetup                        | Country | City | Dates   | Focus                   | Source                                       |
-|-------------------------------|---------|------|---------|-------------------------|----------------------------------------------|
 | 🔵 La Causathon - Onchain Summer Base Challenge | Peru    | Lima | June 20 | La Causathon - Onchain Summer Base Challenge | [La Causathon - Onchain Summer Base Challenge](https://lu.ma/bxjh3f3h)                |
 
 ### May 
